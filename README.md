@@ -1,4 +1,4 @@
-# Chapter 8 project - due 11/21/2016 7:15 p.m.
+# Chapter 8 project - due 11/20/2017 7:15 p.m.
 
 Problem: Largest Block
 
